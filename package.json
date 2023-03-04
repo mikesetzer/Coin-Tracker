@@ -1,0 +1,26 @@
+{
+  "name": "coin-tracker",
+  "version": "1.0.0",
+  "description": "A react app for tracking cryptocurrency data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesetzer/Coin-Tracker.git"
+  },
+  "keywords": [
+    "Coin",
+    "tracker",
+    "react",
+    "mike",
+    "setzer"
+  ],
+  "author": "Mike Setzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesetzer/Coin-Tracker/issues"
+  },
+  "homepage": "https://github.com/mikesetzer/Coin-Tracker#readme"
+}
